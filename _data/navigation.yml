@@ -1,9 +1,24 @@
 main:
+- title: "Work Experience"
+    url: "/work/"
+
+  - title: "Projects"
+    url: "/projects/"
+
+  - title: "Teaching"
+    url: "/teaching/"
+
+  - title: "Honors & Activities"
+    url: "/honors/"
+
+  - title: "Skills"
+    url: "/skills/"
+
+  - title: "CV"
+    url: "/cv/"
+    
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+  
   - title: "About"
     url: /about/
