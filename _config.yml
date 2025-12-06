@@ -62,6 +62,18 @@ author:
   avatar : "/assets/images/bio-photo1.jpg"   # <-- Upload your photo to this path
   bio    : "PhD Researcher in AI Security, Adversarial ML, and Vision-Language Models."
   links:
+    - label: "University of Calgary"
+      icon: "fas fa-fw fa-university"
+      url: "https://ucalgary.ca"
+      
+    - label: "Calgary, Canada"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://maps.google.com/?q=Calgary+Canada"
+
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:nargess.babadi95@gmail.com"
+    
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nargessb"
@@ -71,17 +83,7 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=XXXXX"  # <-- your ID
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:nargess.babadi95@gmail.com"
-    - label: "University of Calgary"
-      icon: "fas fa-fw fa-university"
-      url: "https://ucalgary.ca"
-    - label: "Calgary, Canada"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://maps.google.com/?q=Calgary+Canada"
-
-
+    
 defaults:
   # _posts
   - scope:
