@@ -66,6 +66,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nargessb/"
 
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:nargess.babadi95@gmail.com"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/nargesbabadi/"
@@ -77,6 +81,7 @@ author:
     - label: "University of Calgary"
       icon: "fas fa-fw fa-university"
       url: "https://www.ucalgary.ca/"
+
 
 defaults:
   # _posts
