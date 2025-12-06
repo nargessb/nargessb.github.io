@@ -74,7 +74,7 @@ author:
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://maps.google.com/?q=Calgary+Canada"
       
-   - label: "University of Calgary"
+    - label: "University of Calgary"
       icon: "fas fa-fw fa-university"
       url: "https://www.ucalgary.ca/"
 
