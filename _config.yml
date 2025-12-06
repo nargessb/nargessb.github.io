@@ -69,6 +69,15 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/nargesbabadi/"
+    
+    - label: "Calgary, Canada"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://maps.google.com/?q=Calgary+Canada"
+      
+   - label: "University of Calgary"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.ucalgary.ca/"
+
 
     - label: "Calgary, Canada"
       icon: "fas fa-fw fa-map-marker-alt"
