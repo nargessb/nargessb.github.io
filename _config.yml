@@ -59,28 +59,27 @@ plugins:
 
 author:
   name   : "Narges Babadi"
-  avatar : "/assets/images/bio-photo1.jpg"
-  bio    : "PhD in Electrical and Software Engineering"
+  avatar : "/assets/images/profile.jpg"   # <-- Upload your photo to this path
+  bio    : "PhD Researcher in AI Security, Adversarial ML, and Vision-Language Models."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nargessb/"
-
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:nargess.babadi95@gmail.com"
-
+      url: "https://github.com/nargessb"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/nargesbabadi/"
-
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=XXXXX"  # <-- your ID
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:nargess.babadi95@gmail.com"
+    - label: "University of Calgary"
+      icon: "fas fa-fw fa-university"
+      url: "https://ucalgary.ca"
     - label: "Calgary, Canada"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://maps.google.com/?q=Calgary+Canada"
-
-    - label: "University of Calgary"
-      icon: "fas fa-fw fa-university"
-      url: "https://www.ucalgary.ca/"
 
 
 defaults:
