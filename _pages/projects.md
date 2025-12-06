@@ -4,7 +4,7 @@ layout: single
 permalink: /projects/
 ---
 
-## 🔍 Robust Explainability in Multimodal Models (CLIP)
+## Robust Explainability in Multimodal Models (CLIP)
 
 - Proposed a novel adversarial attack targeting **patch-level similarity maps**.
 - Reduced explanation faithfulness while **preserving model predictions**.
@@ -15,17 +15,17 @@ permalink: /projects/
 
 ---
 
-## 🧠 Meta-Learning Framework for Sponge Attack Detection
+## Meta-Learning Framework for Sponge Attack Detection
 
-- Built an **LSTM-based meta-learning detector** for sponge attacks.
-- Achieved **98% accuracy** on CIFAR-10 and MNIST.
+- Built an **RNN-based meta-learning detector** for sponge attacks.
+- Achieved **98% accuracy** on CIFAR-10, MNIST, GTSRB, and TinyImageNet.
 - Handles training dynamics, LSTM time-series patterns, meta-learned gradients.
 
 **Tools:** PyTorch, Meta-Learning (MAML), LSTM.
 
 ---
 
-## 🛡 Ensemble Learning for Adversarial Detection
+## Ensemble Learning for Adversarial Detection
 
 - Designed ensemble-based IDS for ICS + CV adversarial attacks.
 - Achieved **99% detection accuracy** on sensor and MNIST datasets.
