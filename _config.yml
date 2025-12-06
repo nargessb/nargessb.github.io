@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Narges Babadi"
-  avatar : "/assets/images/profile.jpg"   # <-- Upload your photo to this path
+  avatar : "/assets/images/bio-photo1.jpg"   # <-- Upload your photo to this path
   bio    : "PhD Researcher in AI Security, Adversarial ML, and Vision-Language Models."
   links:
     - label: "GitHub"
