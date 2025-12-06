@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Assistant  
 **University of Calgary, Calgary, Canada**  
 *Jan 2023 – Present*
 
