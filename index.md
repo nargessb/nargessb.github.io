@@ -1,17 +1,13 @@
 ---
 layout: home
-title: "Narges Babadi"
 author_profile: true
 ---
 
-# 👋 About Me
-
-I am **Narges Babadi**, a PhD researcher in **AI Security, Adversarial Machine Learning, Explainability, and Vision–Language Models**.  
-My research focuses on *explainability attacks, robustness, multimodal reasoning*, and *secure AI systems*.
+Hi, This is Narges Babadi, a PhD researcher in Electrical and Software Engineering.My research focuses on AI Security, Adversarial Machine Learning, and Vision–Language Models.  
 
 ---
 
-# 🔬 Latest Projects
+# Latest Projects
 
 {% for post in site.categories.projects limit: 3 %}
 - **[{{ post.title }}]({{ post.url }})** — {{ post.excerpt }}
