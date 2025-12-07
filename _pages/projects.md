@@ -26,6 +26,7 @@ author_profile: true
 
 - Designed ensemble-based IDS for ICS + CV adversarial attacks.
 - Achieved **99% detection accuracy** on sensor and MNIST datasets.
+  
   **Tools:** TensorFlow, ART, and Scikit-Learn.
 
 ---
