@@ -18,9 +18,9 @@ author_profile: true
 
 - Built an **RNN-based meta-learning detector** for sponge attacks.
 - Achieved **98% accuracy** on CIFAR-10, MNIST, GTSRB, and TinyImageNet.
-- Handles training dynamics, LSTM time-series patterns, meta-learned gradients.
+- Handles training dynamics, RNN time-series patterns, meta-learned gradients.
 
-  **Tools:** PyTorch, Meta-Learning (MAML), LSTM.
+  **Tools:** PyTorch, Meta-Learning (MAML), RNN.
 
 ---
 **Ensemble Learning for Adversarial Detection**
