@@ -4,9 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-## Publications
-
 ### 2026
 - **Narges Babadi**, Hadis Karimipour.  
   *FaithShield: Defending Vision–Language Models Against Explanation Manipulation via X-Shift Attacks.*  
