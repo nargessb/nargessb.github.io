@@ -5,7 +5,11 @@ permalink: /skills/
 author_profile: true
 ---
 **AI & Machine Learning**
-- Machine Learning (Supervised, Unsupervised, Semi-Supervised), Multimodal and Vision-Language Models (CLIP, MiniGPT, LLaVA, BLIP-2), NLP, LLMs (BERT), Few-Shot & Meta-Learning (MAML), Reinforcement Learning, Explainable AI, Adversarial Robustness, Anomaly Detection.
+- Machine Learning (Supervised, Unsupervised, Semi-Supervised)
+- Multimodal and Vision-Language Models (CLIP, MiniGPT, LLaVA, BLIP-2)
+- NLP, LLMs (BERT)
+- Few-Shot & Meta-Learning (MAML)
+- Reinforcement Learning, Explainable AI, Adversarial Robustness, Anomaly Detection.
 
 **Programming Languages**
 - Python, C, C++, R, SQL.
