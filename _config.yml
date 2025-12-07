@@ -39,7 +39,7 @@ sass:
 
 include:
   - _pages
-  - assets/css
+  - assets/css/custom.css
 
 
 # Exclude from processing.
