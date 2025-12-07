@@ -1,4 +1,5 @@
 ---
+title: 
 layout: single
 permalink: /skills/
 author_profile: true
