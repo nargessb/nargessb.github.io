@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /projects/
+author_profile: true
 ---
 ## Robust Explainability in Multimodal Models (CLIP)
 - Proposed a novel adversarial attack targeting **patch-level similarity maps**.
