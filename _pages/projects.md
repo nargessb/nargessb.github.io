@@ -9,7 +9,7 @@ author_profile: true
 - Designed dual-path self-attention + selective patch masking defenses.
 - Evaluated on Talk2Car, Flickr30k, COCO, ImageNet-1K.
 
-**Tools:** Python, PyTorch, Vision Transformers, COCO API, XAI libraries.
+  **Tools:** Python, PyTorch, Vision Transformers, COCO API, XAI libraries.
 
 ---
 ## Meta-Learning Framework for Sponge Attack Detection
@@ -17,7 +17,7 @@ author_profile: true
 - Achieved **98% accuracy** on CIFAR-10, MNIST, GTSRB, and TinyImageNet.
 - Handles training dynamics, LSTM time-series patterns, meta-learned gradients.
 
-**Tools:** PyTorch, Meta-Learning (MAML), LSTM.
+  **Tools:** PyTorch, Meta-Learning (MAML), LSTM.
 
 ---
 ## Ensemble Learning for Adversarial Detection
