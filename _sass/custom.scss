@@ -1,0 +1,84 @@
+/* ================================
+   Global Font Size + Typography
+   ================================ */
+
+html, body {
+  font-size: 13px !important;
+  line-height: 1.5 !important;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif !important;
+}
+
+/* Page headers (titles) */
+.page__title,
+h1, h2, h3 {
+  font-size: 1.3rem !important;
+  font-weight: 600 !important;
+}
+
+/* Paragraph text */
+.page__content p {
+  font-size: 0.95rem !important;
+}
+
+/* ================================
+   Navigation (Tabs) — Smaller
+   ================================ */
+.masthead__menu-item {
+  font-size: 0.80rem !important;
+  padding: 2px 8px !important;
+}
+
+.masthead {
+  padding: 4px 0 !important;
+}
+
+/* Site title */
+.site-title {
+  font-size: 1.0rem !important;
+}
+
+/* Subtitle under name */
+.site-subtitle {
+  font-size: 0.80rem !important;
+}
+
+/* ================================
+   Publication List Styling
+   ================================ */
+
+.pub-list {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-top: 20px;
+}
+
+.pub-item {
+  display: flex;
+  gap: 15px;
+  align-items: flex-start;
+}
+
+.pub-thumb {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.pub-text {
+  max-width: 650px;
+  font-size: 0.90rem !important;
+  line-height: 1.4 !important;
+}
+
+.pub-title {
+  font-size: 1.0rem !important;
+  font-weight: 600;
+}
+
+.pub-venue {
+  font-size: 0.90rem !important;
+  color: #666;
+}
