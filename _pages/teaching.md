@@ -1,4 +1,5 @@
 ---
+title: Teaching Assistant
 layout: single
 permalink: /teaching/
 author_profile: true
