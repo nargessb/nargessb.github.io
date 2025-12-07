@@ -63,9 +63,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Narges Babadi"
+  name   : "PhD Researcher"
   avatar : "/assets/images/bio-photo1.jpg"   # <-- Upload your photo to this path
-  bio    : "PhD Researcher in AI Security, Adversarial ML, and Vision-Language Models."
   links:
     - label: "University of Calgary"
       icon: "fas fa-fw fa-university"
