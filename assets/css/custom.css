@@ -51,16 +51,16 @@ h1, h2, h3 {
 }
 
 .author__bio {
-  font-size: 1.2rem !important;   /* bio under your name */
+  font-size: 1.35rem !important;   /* bio under your name */
   line-height: 1.5 !important;
 }
 
 .author__urls a {
-  font-size: 1.0rem !important;    /* GitHub / LinkedIn / Email text */
+  font-size: 1.35rem !important;    /* GitHub / LinkedIn / Email text */
 }
 
 .author__urls .fa-fw {
-  font-size: 1.0rem !important;    /* icons next to links */
+  font-size: 1.35rem !important;    /* icons next to links */
 }
 
 .author__urls li {
