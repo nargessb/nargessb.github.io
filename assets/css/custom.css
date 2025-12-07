@@ -56,11 +56,11 @@ h1, h2, h3 {
 }
 
 .author__urls a {
-  font-size: 1.35rem !important;    /* GitHub / LinkedIn / Email text */
+  font-size: 1.05rem !important;    /* GitHub / LinkedIn / Email text */
 }
 
 .author__urls .fa-fw {
-  font-size: 1.35rem !important;    /* icons next to links */
+  font-size: 1.05rem !important;    /* icons next to links */
 }
 
 .author__urls li {
