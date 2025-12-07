@@ -3,7 +3,6 @@ layout: single
 permalink: /projects/
 ---
 ## Robust Explainability in Multimodal Models (CLIP)
-
 - Proposed a novel adversarial attack targeting **patch-level similarity maps**.
 - Reduced explanation faithfulness while **preserving model predictions**.
 - Designed dual-path self-attention + selective patch masking defenses.
@@ -12,9 +11,7 @@ permalink: /projects/
 **Tools:** Python, PyTorch, Vision Transformers, COCO API, XAI libraries.
 
 ---
-
 ## Meta-Learning Framework for Sponge Attack Detection
-
 - Built an **RNN-based meta-learning detector** for sponge attacks.
 - Achieved **98% accuracy** on CIFAR-10, MNIST, GTSRB, and TinyImageNet.
 - Handles training dynamics, LSTM time-series patterns, meta-learned gradients.
