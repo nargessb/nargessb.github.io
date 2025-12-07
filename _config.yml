@@ -65,6 +65,7 @@ plugins:
 author:
   name   : "PhD Researcher"
   avatar : "/assets/images/bio-photo1.jpg"   # <-- Upload your photo to this path
+  bio: "Machine Learning Engineer"
   links:
     - label: "University of Calgary"
       icon: "fas fa-fw fa-university"
