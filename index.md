@@ -9,29 +9,6 @@ My research focuses on *explainability attacks, robustness, multimodal reasoning
 ---
 # Selected Publications
 
-<div class="pub-list">
-
-  <!-- PUB 1 -->
-  <div class="pub-item">
-    <img src="/assets/images/papers/faithshield.png" class="pub-thumb">
-    <div class="pub-text">
-      <strong>FaithShield: Defending Vision–Language Models Against Explanation Manipulation via X-Shift Attacks</strong><br>
-      Narges Babadi, Hadis Karimipour<br>
-      <em>International Conference on Learning Representations (ICLR), 2026 (Submitted)</em><br>
-      <a href="#">PDF</a> • <a href="#">Project</a>
-    </div>
-  </div>
-
-  <!-- PUB 2 -->
-  <div class="pub-item">
-    <img src="/assets/images/papers/metaspongedetect.png" class="pub-thumb">
-    <div class="pub-text">
-      <strong>MetaSpongeDetect: A Robust Meta-Learning Framework for Real-Time Detection of Sponge Attacks</strong><br>
-      Narges Babadi, Hadis Karimipour<br>
-      <em>IEEE Transactions on Emerging Topics in Computational Intelligence, 2024 (Under Review)</em><br>
-      <a href="#">PDF</a>
-    </div>
-  </div>
 
   <!-- PUB 3 -->
   <div class="pub-item">
