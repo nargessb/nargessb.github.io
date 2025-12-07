@@ -25,13 +25,14 @@ h1, h2, h3 {
    ================================ */
 
 .masthead__menu-item {
-  font-size: 1.05rem !important;
-  padding: 6px 14px !important;
+  font-size: 1.0rem !important;
+  padding: 2px 8px !important;
 }
 
 .masthead {
-  padding: 10px 0 !important;
+  padding: 4px 0 !important;
 }
+
 
 /* Site title */
 .site-title {
