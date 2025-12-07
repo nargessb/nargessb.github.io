@@ -3,7 +3,6 @@ layout: single
 permalink: /work/
 author_profile: true
 ---
-
 # Doctoral Researcher / Data Scientist  
 **Mitacs – University of Calgary**  
 Calgary, Canada  
