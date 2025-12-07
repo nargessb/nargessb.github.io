@@ -1,5 +1,5 @@
 ---
-title: 
+title: Professional Experience
 layout: single
 permalink: /work/
 author_profile: true
