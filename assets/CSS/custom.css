@@ -1,83 +1,56 @@
-/* ================================
-   GLOBAL FONT + BODY SIZE
-   ================================ */
+/* GLOBAL FONT SIZE */
 body {
-  font-size: 8px !important;
-  line-height: 1.5 !important;
+  font-size: 0.85rem !important;
+  line-height: 1.45 !important;
   font-family: "Inter", "Helvetica Neue", Arial, sans-serif !important;
-  color: #222;
 }
 
-/* Smaller section titles */
-h1, h2, h3 {
-  font-weight: 600 !important;
-  margin-top: 1.2rem !important;
-  margin-bottom: 0.6rem !important;
+/* Reduce titles */
+h1, .page__title {
+  font-size: 1.6rem !important;
+}
+h2 {
+  font-size: 1.3rem !important;
+}
+h3 {
+  font-size: 1.1rem !important;
 }
 
-.page__title {
-  font-size: 14px !important;
-  font-weight: 600 !important;
-}
-
-/* ================================
-   NAVIGATION MENU (MAKE TABS SMALLER)
-   ================================ */
+/* Navigation menu smaller */
 .masthead__menu-item {
   font-size: 0.85rem !important;
   padding: 4px 10px !important;
 }
 
-/* Slim header */
 .masthead {
-  padding: 4px 0 !important;
+  padding: 6px 0 !important;
 }
 
-/* Reduce site title and subtitle font size */
-.site-title {
-  font-size: 1.2rem !important;
+/* Sidebar name + bio smaller */
+.author__content h3 {
+  font-size: 1.1rem !important;
 }
-
-.site-subtitle,
-.site-description {
+.author__bio {
   font-size: 0.85rem !important;
 }
 
-/* ================================
-   SIDEBAR / AUTHOR BOX
-   ================================ */
-.author__avatar img {
-  max-width: 120px !important;
-  border-radius: 50%;
-}
-
-.author__content p {
-  font-size: 10px !important;
-}
-
-.author__urls a {
-  font-size: 10px !important;
-}
-
-/* ================================
-   PUBLICATION LIST (like Moosavi)
-   ================================ */
+/* Publication list formatting */
 .pub-list {
   display: flex;
   flex-direction: column;
   gap: 25px;
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 .pub-item {
   display: flex;
-  gap: 18px;
+  gap: 20px;
   align-items: flex-start;
 }
 
 .pub-thumb {
-  width: 120px;
-  height: 120px;
+  width: 110px;
+  height: 110px;
   object-fit: cover;
   border-radius: 6px;
   border: 1px solid #ddd;
@@ -85,43 +58,15 @@ h1, h2, h3 {
 
 .pub-text {
   max-width: 700px;
-  font-size: 10px !important;
-  line-height: 1.45 !important;
+  font-size: 0.85rem !important;
 }
 
-.pub-title {
-  font-size: 10px !important;
-  font-weight: 600 !important;
-  margin-bottom: 4px;
+.pub-text .pub-title {
+  font-size: 1rem !important;
+  font-weight: 600;
 }
 
 .pub-venue {
-  font-size: 10px !important;
+  font-size: 0.9rem !important;
   color: #666;
-  margin-top: 2px;
-}
-
-/* ================================
-   FOOTER FONT SIZE REDUCTION
-   ================================ */
-.page__footer {
-  font-size: 9px !important;
-}
-
-/* ================================
-   LINK STYLE IMPROVED
-   ================================ */
-a {
-  color: #0645AD;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-/* ================================
-   TABLE FONT SMALLER
-   ================================ */
-table {
-  font-size: 9px !important;
 }
