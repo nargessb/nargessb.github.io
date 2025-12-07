@@ -1,13 +1,77 @@
+/* ================================
+   GLOBAL FONT + BODY SIZE
+   ================================ */
+body {
+  font-size: 14px !important;
+  line-height: 1.5 !important;
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif !important;
+  color: #222;
+}
+
+/* Smaller section titles */
+h1, h2, h3 {
+  font-weight: 600 !important;
+  margin-top: 1.2rem !important;
+  margin-bottom: 0.6rem !important;
+}
+
+.page__title {
+  font-size: 22px !important;
+  font-weight: 600 !important;
+}
+
+/* ================================
+   NAVIGATION MENU (MAKE TABS SMALLER)
+   ================================ */
+.masthead__menu-item {
+  font-size: 0.85rem !important;
+  padding: 4px 10px !important;
+}
+
+/* Slim header */
+.masthead {
+  padding: 4px 0 !important;
+}
+
+/* Reduce site title and subtitle font size */
+.site-title {
+  font-size: 1.2rem !important;
+}
+
+.site-subtitle,
+.site-description {
+  font-size: 0.85rem !important;
+}
+
+/* ================================
+   SIDEBAR / AUTHOR BOX
+   ================================ */
+.author__avatar img {
+  max-width: 120px !important;
+  border-radius: 50%;
+}
+
+.author__content p {
+  font-size: 13px !important;
+}
+
+.author__urls a {
+  font-size: 13px !important;
+}
+
+/* ================================
+   PUBLICATION LIST (like Moosavi)
+   ================================ */
 .pub-list {
   display: flex;
   flex-direction: column;
   gap: 25px;
-  margin-top: 20px;
+  margin-top: 25px;
 }
 
 .pub-item {
   display: flex;
-  gap: 20px;
+  gap: 18px;
   align-items: flex-start;
 }
 
@@ -21,48 +85,43 @@
 
 .pub-text {
   max-width: 700px;
-}
-/* Reduce global font size */
-body {
-  font-size: 10px !important;
-  line-height: 1.45 !important;
-  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
-}
-
-/* Publication section text size */
-.pub-text {
-  font-size: 10px !important;
+  font-size: 13px !important;
   line-height: 1.45 !important;
 }
 
-/* Title of each publication */
-.pub-text .pub-title {
-  font-size: 12px !important;
-  font-weight: 600;
+.pub-title {
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  margin-bottom: 4px;
 }
 
-/* Conference label */
 .pub-venue {
-  font-size: 12px !important;
+  font-size: 13px !important;
   color: #666;
-}
-/* Make navigation menu (tabs) smaller */
-.masthead__menu-item {
-  font-size: 0.85rem !important;  /* smaller text */
-  padding: 4px 10px !important;   /* smaller spacing */
+  margin-top: 2px;
 }
 
-/* Make the whole masthead slimmer */
-.masthead {
-  padding: 5px 0 !important;
+/* ================================
+   FOOTER FONT SIZE REDUCTION
+   ================================ */
+.page__footer {
+  font-size: 12px !important;
 }
 
-/* Optional: reduce site title font size */
-.site-title {
-  font-size: 1.1rem !important;
+/* ================================
+   LINK STYLE IMPROVED
+   ================================ */
+a {
+  color: #0645AD;
 }
 
-/* Optional: reduce tagline under name */
-.site-subtitle {
-  font-size: 0.85rem !important;
+a:hover {
+  text-decoration: underline;
+}
+
+/* ================================
+   TABLE FONT SMALLER
+   ================================ */
+table {
+  font-size: 13px !important;
 }
