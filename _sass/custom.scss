@@ -3,13 +3,13 @@
    ================================ */
 
 .masthead__menu-item {
-  font-size: 1.0rem !important;     /* was 0.80rem */
-  padding: 6px 14px !important;     /* bigger clickable area */
+  font-size: 0.80rem;
+  padding: 2px 8px;
+}
+.masthead {
+  padding: 4px 0;
 }
 
-.masthead {
-  padding: 10px 0 !important;       /* slightly taller nav bar */
-}
 
 /* ================================
    Make Sidebar Link Column Larger
