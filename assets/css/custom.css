@@ -25,7 +25,7 @@ h1, h2, h3 {
    ================================ */
 
 .masthead__menu-item {
-  font-size: 0.80rem !important;
+  font-size: 0.9rem !important;
   padding: 2px 8px !important;
 }
 
@@ -40,7 +40,7 @@ h1, h2, h3 {
 
 /* Subtitle under name */
 .site-subtitle {
-  font-size: 0.80rem !important;
+  font-size: 0.9rem !important;
 }
 
 /* ================================
