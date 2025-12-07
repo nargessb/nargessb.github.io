@@ -3,8 +3,7 @@ layout: single
 permalink: /teaching/
 author_profile: true
 ---
-**University of Calgary, Calgary, Canada**  
-*Jan 2023 – Present*
+**University of Calgary, Calgary, Canada** 
 
 **ENEL 400 — Electrical Engineering Design and Technical Communications**
 - Supervised **10+ undergraduate project groups** across two semesters.
