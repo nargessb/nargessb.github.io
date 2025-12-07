@@ -25,12 +25,12 @@ h1, h2, h3 {
    ================================ */
 
 .masthead__menu-item {
-  font-size: 0.9rem !important;
-  padding: 2px 8px !important;
+  font-size: 1.05rem !important;
+  padding: 6px 14px !important;
 }
 
 .masthead {
-  padding: 4px 0 !important;
+  padding: 10px 0 !important;
 }
 
 /* Site title */
@@ -41,6 +41,29 @@ h1, h2, h3 {
 /* Subtitle under name */
 .site-subtitle {
   font-size: 0.9rem !important;
+}
+/* Larger Sidebar (Under Name) */
+
+.author__content h3 {
+  font-size: 1.35rem !important;   /* your name */
+  font-weight: 700 !important;
+}
+
+.author__bio {
+  font-size: 1.05rem !important;   /* bio under your name */
+  line-height: 1.5 !important;
+}
+
+.author__urls a {
+  font-size: 1.0rem !important;    /* GitHub / LinkedIn / Email text */
+}
+
+.author__urls .fa-fw {
+  font-size: 1.2rem !important;    /* icons next to links */
+}
+
+.author__urls li {
+  margin-bottom: 10px !important;  /* bigger spacing between rows */
 }
 
 /* ================================
