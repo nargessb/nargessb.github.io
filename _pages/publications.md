@@ -4,11 +4,6 @@ layout: single
 permalink: /publications/
 author_profile: true
 ---
-**2026**
-- **Narges Babadi**, Hadis Karimipour.  
-  *FaithShield: Defending Vision–Language Models Against Explanation Manipulation via X-Shift Attacks.*  
-  **International Conference on Learning Representations (ICLR), 2026.** *(Submitted)*
-
 **2024**
 - **Narges Babadi**, Hadis Karimipour.  
   *MetaSpongeDetect: A Robust Meta-Learning Framework for Real-Time Detection of Sponge Attacks in AI Systems.*  
