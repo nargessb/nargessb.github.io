@@ -4,7 +4,7 @@ layout: single
 permalink: /work/
 author_profile: true
 ---
-# Doctoral Researcher / Data Scientist  
+### Doctoral Researcher / Data Scientist  
 **Mitacs – University of Calgary**  
 Calgary, Canada  
 *Jan 2023 – Present*
@@ -17,8 +17,7 @@ Calgary, Canada
 - Collaborated on peer-reviewed publications.
 
 ---
-
-# Research Assistant — Electrical Engineering  
+### Research Assistant — Electrical Engineering  
 **Amirkabir University of Technology**  
 *Sep 2019 – Feb 2022*
 
