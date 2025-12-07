@@ -3,7 +3,6 @@ title: "Projects"
 layout: single
 permalink: /projects/
 ---
-
 ## Robust Explainability in Multimodal Models (CLIP)
 
 - Proposed a novel adversarial attack targeting **patch-level similarity maps**.
