@@ -5,8 +5,8 @@ permalink: /work/
 author_profile: true
 ---
 **Doctoral Researcher / Data Scientist**
-Mitacs – University of Calgary
-Calgary, Canada  
+
+Mitacs – University of Calgary(Calgary, Canada)
 Jan 2023 – Present
 
 - Optimized multimodal model inference and explainability by designing efficient self-attention and pruning redundant features.
@@ -18,6 +18,7 @@ Jan 2023 – Present
 
 ---
 **Research Assistant — Electrical Engineering**  
+
 Amirkabir University of Technology
 Sep 2019 – Feb 2022
 
