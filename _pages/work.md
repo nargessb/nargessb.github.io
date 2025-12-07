@@ -13,7 +13,7 @@ Jan 2023 – Present
 - Optimized multimodal model inference and explainability by designing efficient self-attention and pruning redundant features.
 - Developed a scalable adversarial attack targeting **patch-level similarity maps** in models such as CLIP.
 - Designed defense methods improving **Top-k IoU explanation stability by up to 35%** across ImageNet, COCO, Talk2Car, and Flickr30k.
-- Built an **LSTM-based meta-learning system** for real-time sponge attack detection (98% accuracy on CIFAR-10 & MNIST).
+- Built an **RNN-based meta-learning system** for real-time sponge attack detection (98% accuracy on CIFAR-10 & MNIST).
 - Integrated LLM-based prompt engineering to improve multimodal workflow adaptability.
 - Collaborated on peer-reviewed publications.
 
