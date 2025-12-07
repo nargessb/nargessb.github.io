@@ -2,7 +2,7 @@
    GLOBAL FONT + BODY SIZE
    ================================ */
 body {
-  font-size: 14px !important;
+  font-size: 8px !important;
   line-height: 1.5 !important;
   font-family: "Inter", "Helvetica Neue", Arial, sans-serif !important;
   color: #222;
@@ -16,7 +16,7 @@ h1, h2, h3 {
 }
 
 .page__title {
-  font-size: 22px !important;
+  font-size: 14px !important;
   font-weight: 600 !important;
 }
 
@@ -52,11 +52,11 @@ h1, h2, h3 {
 }
 
 .author__content p {
-  font-size: 13px !important;
+  font-size: 10px !important;
 }
 
 .author__urls a {
-  font-size: 13px !important;
+  font-size: 10px !important;
 }
 
 /* ================================
@@ -85,18 +85,18 @@ h1, h2, h3 {
 
 .pub-text {
   max-width: 700px;
-  font-size: 13px !important;
+  font-size: 10px !important;
   line-height: 1.45 !important;
 }
 
 .pub-title {
-  font-size: 15px !important;
+  font-size: 10px !important;
   font-weight: 600 !important;
   margin-bottom: 4px;
 }
 
 .pub-venue {
-  font-size: 13px !important;
+  font-size: 10px !important;
   color: #666;
   margin-top: 2px;
 }
@@ -105,7 +105,7 @@ h1, h2, h3 {
    FOOTER FONT SIZE REDUCTION
    ================================ */
 .page__footer {
-  font-size: 12px !important;
+  font-size: 9px !important;
 }
 
 /* ================================
