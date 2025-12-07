@@ -1,0 +1,7 @@
+---
+# Only the triple-dashes! Required by Jekyll.
+---
+
+@import "minimal-mistakes/skins/default";  // load theme skin
+@import "minimal-mistakes";                // load main theme
+@import "custom";                          // load YOUR custom.css
