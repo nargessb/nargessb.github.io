@@ -46,3 +46,23 @@ body {
   font-size: 12px !important;
   color: #666;
 }
+/* Make navigation menu (tabs) smaller */
+.masthead__menu-item {
+  font-size: 0.85rem !important;  /* smaller text */
+  padding: 4px 10px !important;   /* smaller spacing */
+}
+
+/* Make the whole masthead slimmer */
+.masthead {
+  padding: 5px 0 !important;
+}
+
+/* Optional: reduce site title font size */
+.site-title {
+  font-size: 1.1rem !important;
+}
+
+/* Optional: reduce tagline under name */
+.site-subtitle {
+  font-size: 0.85rem !important;
+}
