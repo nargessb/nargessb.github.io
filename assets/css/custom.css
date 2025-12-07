@@ -26,11 +26,11 @@ h1, h2, h3 {
 
 .masthead__menu-item {
   font-size: 1.05rem !important;
-  padding: 2px 6px !important;
+  padding: 1px 4px !important;
 }
 
 .masthead {
-  padding: 4px 0 !important;
+  padding: 3px 0 !important;
 }
 
 
@@ -52,15 +52,15 @@ h1, h2, h3 {
 
 .author__bio {
   font-size: 1.35rem !important;   /* bio under your name */
-  line-height: 1.5 !important;
+  line-height: 1.6 !important;
 }
 
 .author__urls a {
-  font-size: 1.05rem !important;    /* GitHub / LinkedIn / Email text */
+  font-size: 0.9rem !important;    /* GitHub / LinkedIn / Email text */
 }
 
 .author__urls .fa-fw {
-  font-size: 1.05rem !important;    /* icons next to links */
+  font-size: 0.9rem !important;    /* icons next to links */
 }
 
 .author__urls li {
