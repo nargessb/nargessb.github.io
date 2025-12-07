@@ -1,5 +1,4 @@
 ---
-title: "Honors & Awards"
 layout: single
 permalink: /honors/
 author_profile: true
