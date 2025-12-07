@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 ---
 
-Hii, 
+Hi, 
 
 
 This is  Narges Babadi, a PhD researcher in Electrical and Software Engineering at University of Calgary. My research focuses on AI Security, Adversarial Machine Learning, Explainability, and Vision–Language Models.  
