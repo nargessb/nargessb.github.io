@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications (Pre-prints, conference, journal papers.)
 layout: single
 permalink: /publications/
 author_profile: true
