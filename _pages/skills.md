@@ -1,5 +1,5 @@
 ---
-title: 
+title: Technical Skills
 layout: single
 permalink: /skills/
 author_profile: true
