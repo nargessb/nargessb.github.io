@@ -1,4 +1,5 @@
 ---
+title: Honors and Activities 
 layout: single
 permalink: /honors/
 author_profile: true
