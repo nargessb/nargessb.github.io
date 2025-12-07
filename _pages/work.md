@@ -4,10 +4,10 @@ layout: single
 permalink: /work/
 author_profile: true
 ---
-### Doctoral Researcher / Data Scientist  
-**Mitacs – University of Calgary**  
+**Doctoral Researcher / Data Scientist**
+Mitacs – University of Calgary
 Calgary, Canada  
-*Jan 2023 – Present*
+Jan 2023 – Present
 
 - Optimized multimodal model inference and explainability by designing efficient self-attention and pruning redundant features.
 - Developed a scalable adversarial attack targeting **patch-level similarity maps** in models such as CLIP.
@@ -17,9 +17,9 @@ Calgary, Canada
 - Collaborated on peer-reviewed publications.
 
 ---
-### Research Assistant — Electrical Engineering  
-**Amirkabir University of Technology**  
-*Sep 2019 – Feb 2022*
+**Research Assistant — Electrical Engineering**  
+Amirkabir University of Technology
+Sep 2019 – Feb 2022
 
 - Developed a new **moving-target defense mechanism** to secure cyber-physical systems.
 - Protected systems from replay, false-data-injection, and covert attacks.
