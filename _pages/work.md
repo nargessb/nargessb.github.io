@@ -1,4 +1,5 @@
 ---
+title: 
 layout: single
 permalink: /work/
 author_profile: true
