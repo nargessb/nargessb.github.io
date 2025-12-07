@@ -3,7 +3,7 @@
    ================================ */
 
 html, body {
-  font-size: 17px !important;
+  font-size: 16px !important;
   line-height: 1.5 !important;
   font-family: "Inter", "Helvetica Neue", Arial, sans-serif !important;
 }
@@ -11,7 +11,7 @@ html, body {
 /* Page headers (titles) */
 .page__title,
 h1, h2, h3 {
-  font-size: 1.6rem !important;
+  font-size: 1.0rem !important;
   font-weight: 600 !important;
 }
 
@@ -46,21 +46,21 @@ h1, h2, h3 {
 /* Larger Sidebar (Under Name) */
 
 .author__content h3 {
-  font-size: 1.55rem !important;   /* your name */
+  font-size: 1.2rem !important;   /* your name */
   font-weight: 700 !important;
 }
 
 .author__bio {
-  font-size: 1.15rem !important;   /* bio under your name */
+  font-size: 0.9rem !important;   /* bio under your name */
   line-height: 1.5 !important;
 }
 
 .author__urls a {
-  font-size: 1.1rem !important;    /* GitHub / LinkedIn / Email text */
+  font-size: 0.9rem !important;    /* GitHub / LinkedIn / Email text */
 }
 
 .author__urls .fa-fw {
-  font-size: 1.3rem !important;    /* icons next to links */
+  font-size: 0.9rem !important;    /* icons next to links */
 }
 
 .author__urls li {
