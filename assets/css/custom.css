@@ -51,7 +51,7 @@ h1, h2, h3 {
 }
 
 .author__bio {
-  font-size: 1.0rem !important;   /* bio under your name */
+  font-size: 1.2rem !important;   /* bio under your name */
   line-height: 1.5 !important;
 }
 
