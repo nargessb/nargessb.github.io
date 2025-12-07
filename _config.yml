@@ -39,7 +39,6 @@ sass:
 
 include:
   - _pages
-  - assets/css/custom.css
 
 
 # Exclude from processing.
@@ -116,5 +115,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+sass:
+  sass_dir: _sass
 
 
