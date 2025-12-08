@@ -32,7 +32,7 @@ Hi, This is Narges Babadi. I am a PhD candidate at the University of Calgary wit
 
   <!-- PUB 5 -->
   <div class="pub-item">
-    <img src="/assets/images/papers/mtd.png" class="pub-thumb">
+    <img src="/assets/images/1-s2.0-S0045790622002129-gr1.jpg" class="pub-thumb">
     <div class="pub-text">
       <strong>A Moving Target Defence Approach for Detecting Deception Attacks</strong><br>
       Narges Babadi, Ali Doustmohammadi<br>
