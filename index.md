@@ -8,17 +8,6 @@ Hi, This is Narges Babadi. I am a PhD candidate at the University of Calgary wit
 # Selected Publications
 
 
-  <!-- PUB 3 -->
-  <div class="pub-item">
-    <img src="/assets/images/papers/iiot.png" class="pub-thumb">
-    <div class="pub-text">
-      <strong>Adversarial Machine Learning in Secured IIoT Systems</strong><br>
-      Narges Babadi, Hadis Karimipour<br>
-      <em>AI Schemes in IIoT, Springer, 2024 (Under Review)</em><br>
-      <a href="#">PDF</a>
-    </div>
-  </div>
-
   <!-- PUB 4 -->
   <div class="pub-item">
     <img src="/assets/images/ensemble.jpg" class="pub-thumb">
