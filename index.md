@@ -21,7 +21,7 @@ Hi, This is Narges Babadi. I am a PhD candidate at the University of Calgary wit
 
   <!-- PUB 4 -->
   <div class="pub-item">
-    <img src="/assets/images/papers/ensemble.png" class="pub-thumb">
+    <img src="/assets/images/ensemble.jpg" class="pub-thumb">
     <div class="pub-text">
       <strong>An Ensemble Learning Method to Detect Decision-Based Adversarial Attacks</strong><br>
       Narges Babadi, Hadis Karimipour, Anik Islam<br>
