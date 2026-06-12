@@ -4,6 +4,10 @@ layout: single
 permalink: /publications/
 author_profile: true
 ---
+**2026**
+- **Narges Babadi**, Hadis Karimipour.
+  *Right Predictions, Misleading Explanations: On the Vulnerability of Vision-Language Model Explanations.* In Trustworthy AI for Good (AI4GOOD) Workshop at **ICML 2026**. (Accepted)
+
 **2024**
 - **Narges Babadi**, Hadis Karimipour.  
   *MetaSpongeDetect: A Robust Meta-Learning Framework for Real-Time Detection of Sponge Attacks in AI Systems.*  
