@@ -10,12 +10,12 @@ Hi, This is Narges Babadi. I am a PhD candidate at the University of Calgary wit
 
   <!-- PUB 3 -->
   <div class="pub-item">
-    <img src="/assets/images/ensemble.jpg" class="pub-thumb">
+    <img src="/assets/images/icml.jpg" class="pub-thumb">
     <div class="pub-text">
       <strong>Right Predictions, Misleading Explanations: On the Vulnerability of Vision-Language Model Explanations </strong><br>
       Narges Babadi, Hadis Karimipour<br>
       <em>ICML (Workshop on Trustworthy AI for Good), 2026</em><br>
-      <a href="[https://ieeexplore.ieee.org/document/10371863/](https://openreview.net/forum?id=mgrPPpv3Y8&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FWorkshop%2FAI4GOOD%2FAuthors%23your-submissions))">IEEE Link</a>
+      <a href="https://openreview.net/forum?id=mgrPPpv3Y8&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FWorkshop%2FAI4GOOD%2FAuthors%23your-submissions)">OpenReview Link</a>
     </div>
   </div>
 
