@@ -19,27 +19,3 @@ Hi, This is Narges Babadi. I am a PhD candidate at the University of Calgary wit
     </div>
   </div>
 
-
-  <!-- PUB 4 -->
-  <div class="pub-item">
-    <img src="/assets/images/ensemble.jpg" class="pub-thumb">
-    <div class="pub-text">
-      <strong>An Ensemble Learning Method to Detect Decision-Based Adversarial Attacks</strong><br>
-      Narges Babadi, Hadis Karimipour, Anik Islam<br>
-      <em>IEEE SSCI, 2023</em><br>
-      <a href="https://ieeexplore.ieee.org/document/10371863/">IEEE Link</a>
-    </div>
-  </div>
-
-  <!-- PUB 5 -->
-  <div class="pub-item">
-    <img src="/assets/images/1-s2.0-S0045790622002129-gr1.jpg" class="pub-thumb">
-    <div class="pub-text">
-      <strong>A Moving Target Defence Approach for Detecting Deception Attacks</strong><br>
-      Narges Babadi, Ali Doustmohammadi<br>
-      <em>Computers & Electrical Engineering, 2022</em><br>
-      <a href="https://doi.org/10.1016/j.compeleceng.2022.107931">Journal Link</a>
-    </div>
-  </div>
-
-</div>
